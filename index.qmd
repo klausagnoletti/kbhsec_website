@@ -1,6 +1,6 @@
 ![](KbhSec_Logo_website.png)
 
-Welcome to the website of KbhSec, a citysec meetup group in Copenhagen, Denmark.
+Welcome to the website of KbhSec, a CitySec meetup group in Copenhagen, Denmark.
 
 Here's an overview of upcoming events:
 
