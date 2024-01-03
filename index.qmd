@@ -2,6 +2,10 @@
 
 Welcome to the website of KbhSec, a citysec meetup group in Copenhagen, Denmark.
 
-We have our first meetup on Jan 11 2024 at [Bootleggers Nørreport](https://bootleggers.dk/city/). 
+Here's an overview of upcoming events:
 
-RSVP and more information is available on our [LinkedIn page](https://www.linkedin.com/company/kbhsec/).
+```{=html}
+<div class='sk-linkedin-event' data-embed-id='250266'></div><script src='https://widgets.sociablekit.com/linkedin-events/widget.js' async defer></script>
+```
+
+Make sure to follow our [LinkedIn page](https://www.linkedin.com/company/kbhsec/) for updates and other news.
