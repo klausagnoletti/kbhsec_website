@@ -3,7 +3,7 @@ project:
 
 website:
   title: "kbhsec_website"
-  favicon: "KbhSec_Logo_website.png"
+  favicon: "KbhSec_Logo_favicon.png"
   navbar:
     title: "kbhsec.dk"
     left:
