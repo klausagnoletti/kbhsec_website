@@ -1,4 +1,4 @@
-KbhSec is the copenhagen branch of [CitySec](https://www.reddit.com/r/netsec/wiki/meetups/citysec/) a collection of informal meetups for like-minded security professionals. 
+KbhSec is the Copenhagen branch of [CitySec](https://www.reddit.com/r/netsec/wiki/meetups/citysec/), a collection of informal meetups for like-minded security professionals. 
 
 CitySec groups meet to discuss topics of interest in a non-work, non-vendor setting; preferably while drinking (responsibly).
 
