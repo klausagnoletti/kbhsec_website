@@ -1,0 +1,1 @@
+This repo contains the source code of https://kbhsec.dk/, the website of the Copenhagen CitySec meetup.

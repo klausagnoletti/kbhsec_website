@@ -1,0 +1,5 @@
+KbhSec is the copenhagen branch of [CitySec](https://www.reddit.com/r/netsec/wiki/meetups/citysec/) a collection of informal meetups for like-minded security professionals. 
+
+CitySec groups meet to discuss topics of interest in a non-work, non-vendor setting; preferably while drinking (responsibly).
+
+This website is built with [Quarto](https://quarto.org/), hosted on [GitHub Pages](https://klausagnoletti.github.io/kbhsec_website/). Source is available [here](https://github.com/klausagnoletti/kbhsec_website).
