@@ -22,3 +22,6 @@ render:
 
 execute:
   freeze: auto
+
+resources:
+  - CNAME
