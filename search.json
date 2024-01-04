@@ -2,14 +2,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "kbhsec_website",
+    "title": "KbhSec Website",
     "section": "",
     "text": "Welcome to the website of KbhSec, a CitySec meetup group in Copenhagen, Denmark.\nHere’s an overview of upcoming events:\n\nMake sure to follow our LinkedIn page for updates and other news."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "kbhsec_website",
+    "title": "KbhSec Website",
     "section": "",
     "text": "KbhSec is the Copenhagen branch of CitySec, a collection of informal meetups for like-minded security professionals.\nCitySec groups meet to discuss topics of interest in a non-work, non-vendor setting; preferably while drinking (responsibly).\nThis website is built with Quarto, hosted on GitHub Pages. Source is available here."
   }
